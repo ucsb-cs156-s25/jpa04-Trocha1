@@ -1,4 +1,4 @@
-# STARTER-jpa04
+# jpa04-trocha1
 
 Running at: <https://jpa04-trocha1.dokku-11.cs.ucsb.edu/>
 
